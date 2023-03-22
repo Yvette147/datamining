@@ -1,0 +1,58 @@
+UserScreenName,UserName,Timestamp,Text,Embedded_text,Emojis,Comments,Likes,Retweets,Image link,Tweet URL
+Flaneur,@FLANEUR_RANT,2021-10-01T19:25:44.000Z,"Flaneur
+@FLANEUR_RANT
+·
+2021年10月2日","回复 
+@ConanOBrien",,,,,[],https://twitter.com/FLANEUR_RANT/status/1444020725166247940
+Meteo Bétera,@MeteoBetera,2021-10-01T21:00:05.000Z,"Meteo Bétera
+@MeteoBetera
+·
+2021年10月2日","22:52 Temp. 22.4° C, Hum. 85%, Dewp. 19.1° C, Bar. 1022.7 hpa, Rain Today 0 mm, Viento ° 0 km / h",,,,,[],https://twitter.com/MeteoBetera/status/1444044472564830213
+Meteo Bétera,@MeteoBetera,2021-10-02T21:00:06.000Z,"Meteo Bétera
+@MeteoBetera
+·
+2021年10月3日","22:49 Temp. 21.9° C, Hum. 84%, Dewp. 18.4° C, Bar. 1016.3 hpa, Rain Today 0 mm, Viento ° 0 km / h",,,,,[],https://twitter.com/MeteoBetera/status/1444406864201064448
+Meteo Bétera,@MeteoBetera,2021-10-02T15:00:06.000Z,"Meteo Bétera
+@MeteoBetera
+·
+2021年10月2日","16:56 Temp. 26.7° C, Hum. 66%, Dewp. 18.7° C, Bar. 1017 hpa, Rain Today 0 mm, Viento ° 0 km / h",,,,,[],https://twitter.com/MeteoBetera/status/1444316267045916679
+Susana Fiscal-Drag,@Spanglish51,2021-10-02T09:56:44.000Z,"Susana Fiscal-Drag
+@Spanglish51
+·
+2021年10月2日",I’m so sorry. Women officers still feel they have to be ‘one of the boys’ in order to survive & have a career . Sad that don’t have the support to challenge this in the 21st century ,?? ??,1,,,[],https://twitter.com/Spanglish51/status/1444239919719849985
+John O'Brien,@objohnny,2021-10-02T22:13:13.000Z,"John O'Brien
+@objohnny
+·
+2021年10月3日","回复 
+@ClaireCoutinho
+ 和 
+@Conservatives",,,,,[],https://twitter.com/objohnny/status/1444425264704987143
+Meteo Bétera,@MeteoBetera,2021-10-03T18:00:06.000Z,"Meteo Bétera
+@MeteoBetera
+·
+2021年10月4日","19:56 Temp. 22.6° C, Hum. 71%, Dewp. 16° C, Bar. 1013 hpa, Rain Today 0.1000 mm, Viento ° 0 km / h",,,,,[],https://twitter.com/MeteoBetera/status/1444723953189150734
+Meteo Bétera,@MeteoBetera,2021-10-03T12:00:06.000Z,"Meteo Bétera
+@MeteoBetera
+·
+2021年10月3日","13:48 Temp. 27.8° C, Hum. 42%, Dewp. 13.9° C, Bar. 1011.6 hpa, Rain Today 0 mm, Viento ° 0 km / h",,,,,[],https://twitter.com/MeteoBetera/status/1444633354138177539
+Meteo Bétera,@MeteoBetera,2021-10-03T21:00:05.000Z,"Meteo Bétera
+@MeteoBetera
+·
+2021年10月4日","22:52 Temp. 19° C, Hum. 80%, Dewp. 14.6° C, Bar. 1015.8 hpa, Rain Today 1.8000 mm, Viento ° 0 km / h",,,,1,[],https://twitter.com/MeteoBetera/status/1444769247834558466
+Meteo Bétera,@MeteoBetera,2021-10-04T21:00:08.000Z,"Meteo Bétera
+@MeteoBetera
+·
+2021年10月5日","22:49 Temp. 16.2° C, Hum. 65%, Dewp. 8.5° C, Bar. 1022.2 hpa, Rain Today 2.7000 mm, Viento ° 0 km / h",,,,,[],https://twitter.com/MeteoBetera/status/1445131645598806018
+Meteo Bétera,@MeteoBetera,2021-10-04T18:00:06.000Z,"Meteo Bétera
+@MeteoBetera
+·
+2021年10月5日","19:48 Temp. 21.6° C, Hum. 42%, Dewp. 8.2° C, Bar. 1020.5 hpa, Rain Today 2.7000 mm, Viento ° 0 km / h",,,,,[],https://twitter.com/MeteoBetera/status/1445086341721624581
+Meteo Bétera,@MeteoBetera,2021-10-04T15:00:06.000Z,"Meteo Bétera
+@MeteoBetera
+·
+2021年10月4日","16:56 Temp. 24.8° C, Hum. 35%, Dewp. 9.4° C, Bar. 1019.7 hpa, Rain Today 2.7000 mm, Viento ° 0 km / h",,,,,[],https://twitter.com/MeteoBetera/status/1445041041027915783
+Tony Tobin CTID,@tonymtobin1,2021-10-04T00:24:32.000Z,"Tony Tobin CTID
+@tonymtobin1
+·
+2021年10月4日","回复 
+@RebelSD",?? ?? ??,1,,1,[],https://twitter.com/tonymtobin1/status/1444820699064020994
